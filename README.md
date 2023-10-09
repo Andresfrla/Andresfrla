@@ -2,7 +2,7 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Andresfrla" alt="Andresfrla" />
- <a href="https://github.com/Andresfrla"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
+ <a href="https://github.com/Andresfrla"><img src="https://img.shields.io/github/followers/Andresfrla.svg?label=GitHub&style=social" alt="GitHub"></a>
  <a href="https://www.linkedin.com/in/andresfrancolangthon/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
