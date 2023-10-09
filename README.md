@@ -41,7 +41,7 @@ Recently, I completed a web development bootcamp, broadening my skill set in Jav
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andresfrla&show_icons=true&hide_border=true)
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltbernalm&show_icons=true&locale=en&layout=compact" alt="kimjayden" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andresfrla&show_icons=true&locale=en&layout=compact" alt="Andresfrla" />
 </p>
 <h2>🤝 Let's Connect!</h2>
 
