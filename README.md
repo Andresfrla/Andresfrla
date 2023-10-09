@@ -33,6 +33,7 @@
 
 <p> 
 Recently, I completed a web development bootcamp, broadening my skill set in JavaScript, React, Node.js, MongoDB, and front-end development. I'm excited about harnessing these technical capabilities to bring added value in bridging business and tech realms.
+🔭 Open to Work!
 </p>
 
 <h2>My Stats 💻</h2>
