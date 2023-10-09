@@ -26,6 +26,7 @@
 Recently, I completed a web development bootcamp, broadening my skill set in JavaScript, React, Node.js, MongoDB, and front-end development. I'm excited about harnessing these technical capabilities to bring added value in bridging business and tech realms.
 </p>
 
+<h2>My Stats 💻</h2>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andresfrla&show_icons=true&hide_border=true)
 
 <!--
