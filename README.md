@@ -39,3 +39,10 @@ Recently, I completed a web development bootcamp, broadening my skill set in Jav
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andresfrla&show_icons=true&hide_border=true)
 
+<h2>🤝 Let's Connect!</h2>
+
+<p>
+  📧 Email: <a href="mailto:andresfranla@gmail.com">andresfranla@gmail.com</a> <br>
+  📞 Phone: +52 5539138302
+</p>
+
