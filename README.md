@@ -27,6 +27,7 @@ Recently, I completed a web development bootcamp, broadening my skill set in Jav
 </p>
 
 <h2>My Stats 💻</h2>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andresfrla&show_icons=true&hide_border=true)
 
 <!--
