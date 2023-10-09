@@ -20,6 +20,7 @@
 <p> 
 Recently, I completed a web development bootcamp, broadening my skill set in JavaScript, React, Node.js, MongoDB, and front-end development. I'm excited about harnessing these technical capabilities to bring added value in bridging business and tech realms.
 </p>
+
 <!--
 **Andresfrla/Andresfrla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
