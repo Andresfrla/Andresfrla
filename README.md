@@ -61,8 +61,10 @@ Recently, I completed a web development bootcamp, broadening my skill set in Jav
 <p align="center">
   📧 Email: <a href="mailto:andresfranla@gmail.com">andresfranla@gmail.com</a><br>
   📞 Phone: +52 5539138302
+
+  [![Descargar mi CV](https://img.shields.io/badge/Descargar-mi%20CV-brightgreen)](https://github.com/Andresfrla/Andresfrla/raw/main/Andres%20Franco%20Langthon%20Resume.pdf)
 </p>
 
-[![Descargar mi CV](https://img.shields.io/badge/Descargar-mi%20CV-brightgreen)](https://github.com/Andresfrla/Andresfrla/raw/main/Andres%20Franco%20Langthon%20Resume.pdf)
+
 
 
