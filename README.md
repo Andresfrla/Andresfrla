@@ -64,8 +64,8 @@ Recently, I completed a web development bootcamp, broadening my skill set in Jav
 </p>
 
 <p align="center">
-  <a href="https://github.com/Andresfrla/Andresfrla/raw/main/Andres%20Franco%20Langthon%20Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Descargar%20mi%20CV-brightgreen" alt="Botón para descargar CV">
+  <a href="https://github.com/Andresfrla/Andresfrla/raw/main/Andres%20Franco%20Langthon%20Resume.pdf" target="_blank" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 16px;">
+    Descargar mi CV
   </a>
 </p>
 
