@@ -63,3 +63,6 @@ Recently, I completed a web development bootcamp, broadening my skill set in Jav
   📞 Phone: +52 5539138302
 </p>
 
+[Descargar mi CV]([https://github.com/Andresfrla/Andresfrla/raw/main/AndresFrla_CV.pdf](https://github.com/Andresfrla/Andresfrla/blob/main/Andres%20Franco%20Langthon%20Resume.pdf)https://github.com/Andresfrla/Andresfrla/blob/main/Andres%20Franco%20Langthon%20Resume.pdf)
+
+
