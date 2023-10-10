@@ -1,6 +1,7 @@
-![pc](https://github.com/Andresfrla/Andresfrla/blob/main/Lenguaje-de-programacion-Golang-o-Go.gif)
-
-<h2> Hello there 👋, I'm Andres </h2>
+<h2 align="center">Hello there 👋, I'm Andres</h2>
+<p align="center">
+  <img src="https://github.com/Andresfrla/Andresfrla/blob/main/Lenguaje-de-programacion-Golang-o-Go.gif" width="300px" alt="Golang GIF"/>
+</p>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Andresfrla" alt="Andresfrla" />
@@ -8,11 +9,15 @@
  <a href="https://www.linkedin.com/in/andresfrancolangthon/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-<h3>FullStack Web Developer</h3>
+<h3 align="center">FullStack Web Developer</h3>
+
+---
 
 <h4>🧰 Editor</h4>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 <h4>🌐 Frontend</h4>
 
@@ -23,32 +28,38 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
+---
+
 <h4>🎲 Backend</h4>
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 <h4>🔧 Version Control</h4>
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 <p> 
 Recently, I completed a web development bootcamp, broadening my skill set in JavaScript, React, Node.js, MongoDB, and front-end development. I'm excited about harnessing these technical capabilities to bring added value in bridging business and tech realms.
-🔭 Open to Work!
+<br>🔭 Open to Work!
 </p>
 
 <h2>My Stats 💻</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andresfrla&show_icons=true&hide_border=true)
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andresfrla&show_icons=true&locale=en&layout=compact" alt="Andresfrla" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andresfrla&show_icons=true&hide_border=true" alt="Andresfrla's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andresfrla&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<h2>🤝 Let's Connect!</h2>
 
-<p>
-  📧 Email: <a href="mailto:andresfranla@gmail.com">andresfranla@gmail.com</a> <br>
+<h2 align="center">🤝 Let's Connect!</h2>
+
+<p align="center">
+  📧 Email: <a href="mailto:andresfranla@gmail.com">andresfranla@gmail.com</a><br>
   📞 Phone: +52 5539138302
 </p>
 
