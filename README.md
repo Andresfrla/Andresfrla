@@ -1,3 +1,5 @@
+![Golang GIF](https://assets-blog.hostgator.mx/wp-content/uploads/2020/07/Lenguaje-de-programacion-Golang-o-Go.gif)
+
 <h2> Hello there 👋, I'm Andres </h2>
 
 <p align="center">
