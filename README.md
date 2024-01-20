@@ -1,11 +1,11 @@
 <h2 align="center">Hello there 👋, I'm Andres</h2>
 
 <p align="center">
- <img src="https://github.com/Andresfrla/Andresfrla/blob/main/Lenguaje-de-programacion-Golang-o-Go.gif" width="400px" alt="Golang GIF"/>
+    <img src="https://github.com/Andresfrla/Andresfrla/blob/main/Lenguaje-de-programacion-Golang-o-Go.gif" width="400px" alt="Golang GIF"/>
 </p>
 
 <p align="center">
- <a href="https://github.com/Andresfrla"><img src="https://img.shields.io/github/followers/Andresfrla.svg?label=GitHub&style=social" alt="GitHub"></a>
+    <a href="https://github.com/Andresfrla"><img src="https://img.shields.io/github/followers/Andresfrla.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
 
 <h3 align="center">FullStack Web Developer</h3>
@@ -61,23 +61,22 @@ Recently, I completed a web development bootcamp, broadening my skill set in Jav
 <h2>My Stats 💻</h2>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Andresfrla&show_icons=true&hide_border=true" alt="Andresfrla's GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andresfrla&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Andresfrla&show_icons=true&hide_border=true" alt="Andresfrla's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andresfrla&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
- 💼 Porfolio: <a href="https://jolly-clafoutis-6632ed.netlify.app/" target="_blank">Visit my portfolio</a>
+    💼 Porfolio: <a href="https://jolly-clafoutis-6632ed.netlify.app/" target="_blank">Visit my portfolio</a>
 </p>
 
 <h2 align="center">🤝 Let's Connect!</h2>
 
 <div align="center">
-    <ul>
-        <li><p>+ 52 5539138302</p></li>
-        <li><a href="https://www.linkedin.com/in/andresfrancolangthon/"></a></li>
-        <li><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></li>
-    </ul>
+    <p>+ 52 5539138302</p>
+    <a href="mailto:andresfranla@gmail.com">andresfranla@gmail.com</a>
+    <a href="https://www.linkedin.com/in/andresfrancolangthon/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </div>
+
 
 
 
