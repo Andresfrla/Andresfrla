@@ -74,6 +74,7 @@ Recently, I completed a web development bootcamp, broadening my skill set in Jav
 <div align="center">
     <p>+ 52 5539138302</p>
     <a href="mailto:andresfranla@gmail.com">andresfranla@gmail.com</a>
+    <br>
     <a href="https://www.linkedin.com/in/andresfrancolangthon/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </div>
 
