@@ -1,24 +1,24 @@
-<h2 align="center">Hello there 👋, I'm Andres</h2>
+# Hello there! 👋, I'm Andres
 
-<p align="center">
+<div align="center">
     <img src="https://github.com/Andresfrla/Andresfrla/blob/main/Lenguaje-de-programacion-Golang-o-Go.gif" width="400px" alt="Golang GIF"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
     <a href="https://github.com/Andresfrla"><img src="https://img.shields.io/github/followers/Andresfrla.svg?label=GitHub&style=social" alt="GitHub"></a>
-</p>
+</div>
 
-<h3 align="center">FullStack Web Developer</h3>
+## FullStack Web Developer
 
 ---
 
-<h4>🧰 Editor</h4>
+### 🧰 Editor
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-<h4>🌐 Frontend</h4>
+### 🌐 Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,7 +35,7 @@
 
 ---
 
-<h4>🎲 Backend</h4>
+### 🎲 Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-<h4>🔧 Tools</h4>
+### 🔧 Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -53,23 +53,20 @@
 
 ---
 
-<p> 
-Recently, I completed a web development bootcamp, broadening my skill set in JavaScript, React, Node.js, MongoDB, and front-end development. I'm excited about harnessing these technical capabilities to bring added value in bridging business and tech realms.
-<br>🔭 Open to Work!
-</p>
+Recently, I completed a web development bootcamp, broadening my skill set in JavaScript, React, Node.js, MongoDB, and front-end development. I'm excited about harnessing these technical capabilities to bring added value in bridging business and tech realms. 🔭 Open to Work!
 
-<h2>My Stats 💻</h2>
+## My Stats 💻
 
-<p align="center">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Andresfrla&show_icons=true&hide_border=true" alt="Andresfrla's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andresfrla&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+</div>
 
-<p align="center">
-    💼 Porfolio: <a href="https://jolly-clafoutis-6632ed.netlify.app/" target="_blank">Visit my portfolio</a>
-</p>
+<div align="center">
+    💼 Portfolio: <a href="https://jolly-clafoutis-6632ed.netlify.app/" target="_blank">Visit my portfolio</a>
+</div>
 
-<h2 align="center">🤝 Let's Connect!</h2>
+## Let's Connect! 🤝
 
 <div align="center">
     <p>+ 52 5539138302</p>
@@ -77,8 +74,6 @@ Recently, I completed a web development bootcamp, broadening my skill set in Jav
     <br>
     <a href="https://www.linkedin.com/in/andresfrancolangthon/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </div>
-
-
 
 
 
