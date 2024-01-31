@@ -66,7 +66,7 @@ Recently, I completed a web development bootcamp, broadening my skill set in Jav
 </div>
 
 <div align="center">
-    💼 Portfolio: <a href="https://jolly-clafoutis-6632ed.netlify.app/" target="_blank">Visit my portfolio</a>
+    💼 Portfolio: <a href="https://andres-franco-portfolio.netlify.app/" target="_blank">Visit my portfolio</a>
 </div>
 
 ## Let's Connect! 🤝
