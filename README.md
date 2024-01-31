@@ -1,7 +1,7 @@
 # Hello there! 👋, I'm Andres
 
 <div align="center">
-    <img src="https://github.com/Andresfrla/Andresfrla/blob/main/Lenguaje-de-programacion-Golang-o-Go.gif" width="400px" alt="Golang GIF"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1kMG1keDJkdnE2bGFwNDl4N3o3M3dqaW1xNTVrdXM3bGtnazU4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" width="400px" alt="Golang GIF"/>
 </div>
 
 <div align="center">
