@@ -58,7 +58,9 @@
 
 ---
 
-Recently, I completed a web development bootcamp, broadening my skill set in JavaScript, React, Node.js, MongoDB, and front-end development. I'm excited about harnessing these technical capabilities to bring added value in bridging business and tech realms. 🔭 Open to Work!
+I have experience as a freelance web developer, working with full-stack technologies including JavaScript, React, Node.js, MongoDB, and front-end development. With over 7 years of expertise in sales and process optimization, I’m now focusing on leveraging my technical skills to create impactful software solutions. I'm actively seeking a position where I can contribute to solving complex problems, collaborate with talented teams, and continue growing as a developer.
+
+🔭 Open to new opportunities as a Junior React Developer!
 
 ## My Stats 💻
 
